@@ -7,7 +7,7 @@
 **_🪪 About Me_** 
 
 I'm a Systems Engineering student at UNICEN (Tandil, Argentina), passionate about technology and software development. 
-In the future, I would love to become a backend developer.
+In the future, I would love to become a backend developer. 
 
 
 ## 🌱Currently Learning
