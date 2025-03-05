@@ -4,10 +4,10 @@
 
 I'm a Systems Engineering student at UNICEN (Tandil, Argentina), passionate about technology and software development.
 
--![image](https://github.com/user-attachments/assets/5ee85b5b-55aa-4f14-b4d9-da72d9f66732) Currently Learning
+- ![image](https://github.com/user-attachments/assets/5ee85b5b-55aa-4f14-b4d9-da72d9f66732) Currently Learning
 -- React
 
-##My Skills
+## My Skills
 ---
 ![image](https://github.com/user-attachments/assets/e9af7910-9fcd-45c9-8d27-feec2b1e99d8) ![image](https://github.com/user-attachments/assets/2163640c-5e38-41b0-8641-1e2e2e541da2) ![image](https://github.com/user-attachments/assets/993556aa-7a26-49db-99db-fe264d9f0ca0) ![image](https://github.com/user-attachments/assets/8be6791f-a39e-46b8-a6a8-b3521e490e18)
 
