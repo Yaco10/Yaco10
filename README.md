@@ -12,6 +12,8 @@ In the future, I would love to become a backend developer.
 
 ## 🌱Currently Learning
 - React
+- Typescript
+- Node.js
 
 ## My Skills
 ### Languages
