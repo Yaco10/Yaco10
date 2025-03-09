@@ -26,7 +26,6 @@ In the future, I would love to become a backend developer.
 
 
 
-
 Feel free to check out my repositories and projects!
 
 <!---
