@@ -11,13 +11,15 @@ In the future, I would love to become a backend developer.
 
 
 ## 🌱Currently Learning
-- React
-- Typescript
-- Node.js
+
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src= "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+
 
 ## My Skills
 ### Languages
-![image](https://github.com/user-attachments/assets/e9af7910-9fcd-45c9-8d27-feec2b1e99d8) ![image](https://github.com/user-attachments/assets/2163640c-5e38-41b0-8641-1e2e2e541da2) ![image](https://github.com/user-attachments/assets/993556aa-7a26-49db-99db-fe264d9f0ca0) ![image](https://github.com/user-attachments/assets/8be6791f-a39e-46b8-a6a8-b3521e490e18)
+![image](https://github.com/user-attachments/assets/e9af7910-9fcd-45c9-8d27-feec2b1e99d8) ![image](https://github.com/user-attachments/assets/2163640c-5e38-41b0-8641-1e2e2e541da2) ![image](https://github.com/user-attachments/assets/8be6791f-a39e-46b8-a6a8-b3521e490e18) <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
 
 
 ### Other Tools and Technologies
